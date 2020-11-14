@@ -2,4 +2,4 @@
 **Azhar Kazhikarimova &**
 **Abay Rakhman**
 
-![ERD](ERD-sample.png)
+![ERD](ERD_sample.png)
